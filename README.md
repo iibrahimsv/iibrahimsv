@@ -54,6 +54,6 @@
 
 ![Abdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![Abdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Abdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdi's&show_icons=true&theme=transparent)
 
-![Abdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
