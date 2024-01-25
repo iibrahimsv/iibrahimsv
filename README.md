@@ -52,7 +52,7 @@
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-![Abdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iibrahimsv&show_icons=true&theme=highcontast)
+![Abdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iibrahimsv&show_icons=true&theme=dracula)
 
 
 
