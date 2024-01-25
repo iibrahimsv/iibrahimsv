@@ -54,7 +54,7 @@
 
 ![Abdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iibrahimsv&show_icons=true&theme=dracula)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iibrahimsv&repo=github-readme-stats)](https://github.com/iibrahimsv/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iibrahimsv&repo=github-readme-stats)](https://github.com/iibrahimsv/github-readme)
 
 
 
