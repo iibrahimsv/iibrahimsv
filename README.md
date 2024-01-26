@@ -2,11 +2,11 @@
 
 
 
-- 💪 Strong experience in automated testing with Java, using various frameworks on commercial projects (including UI and API testing). During my work, I have implemented various patterns and used the following tools: 
+- 🚀 Strong experience in automated testing with Java, using various frameworks on commercial projects (including UI and API testing). During my work, I have implemented various patterns and used the following tools: 
 
-- Git/GitLab/Gradle/Maven/Selenium WebDriver/Selenium Grid/Jenkins/Allure Report/TestNG/JUnit/Cucumber/REST Assured 🔍
+- 🚀 Git/GitLab/Gradle/Maven/Selenium WebDriver/Selenium Grid/Jenkins/Allure Report/TestNG/JUnit/Cucumber/REST Assured 🔍
 
--  🚀 Experience working in Development & Testing Methodologies such as Agile (Kanban,Scrum) and Waterfall testing methodologies;
+- 🚀 Experience working in Development & Testing Methodologies such as Agile (Kanban,Scrum) and Waterfall testing methodologies;
 
 - 🚀 Solid working experience in Manual and Automated testing using Rest Assured and Selenium using Java;
 
@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [RARETOSHI](https://github.com/Berichicko/taf-raretoshi) TAF-RARETOSHI (TEST AUTOMATION FRAMEWORK)
 
-- 🌱 Certified: **Java Automation Testing - IT Academy**
+- 🌱 Certified: **Java Automation Testing - TestPro.io**
 
 
 
