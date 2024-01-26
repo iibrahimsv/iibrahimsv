@@ -1,9 +1,5 @@
 <h3 align="center">Software Engineer in Test (SDET)</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/104761482/235295339-c98243c5-d711-4686-ad1e-c85af334b4b7.png"/>
-</p>
-
 - 💪 Strong experience in automated testing with Java, using various frameworks on commercial projects (including UI and API testing). During my work, I have implemented various patterns and used the following tools: 
 
 - Git/GitLab/Gradle/Maven/Selenium WebDriver/Selenium Grid/Jenkins/Allure Report/TestNG/JUnit/Cucumber/REST Assured 🔍
