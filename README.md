@@ -1,6 +1,3 @@
-![download (6)](https://user-images.githubusercontent.com/104761482/219974837-5fbc5761-d46e-45fd-8794-976f115d0f3f.gif)
-
-
 <h3 align="center">Software Engineer in Test (SDET)</h3>
 
 <p align="center">
