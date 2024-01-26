@@ -19,18 +19,18 @@
 - 🌱 Certified: **Java Automation Testing - IT Academy**
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=berichicko&label=Profile%20views&color=3e18c9&style=flat" alt="berichicko" /> </p>
+
 
 <p align="center">
-<a href="https://github.com/Berichicko">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Berichicko&theme=outrun&hide_border=true&border_radius=5.9&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="berichicko" />
+<a href="https://github.com/iibrahimsv">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iibrahimsv&theme=outrun&hide_border=true&border_radius=5.9&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="iibrahimsv" />
 </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aliaksandr-zasinets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliaksandr-zasinets" height="30" width="40" /></a>
- <a href="mailto: aliaksandr.zasinets@gmail.com "><img src="https://img.shields.io/badge/- aliaksandr.zasinets@gmail.com -D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/abdi-said-ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliaksandr-zasinets" height="30" width="40" /></a>
+ <a href="mailto: dcabdi@gmail.com "><img src="https://img.shields.io/badge/- dcabdi@gmail.com -D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 
@@ -69,25 +69,10 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/aliaksandrzasinets"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aliaksandrzasinets" />
+<p><a href="https://ko-fi.com/aliaksandrzasinets"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="iibrahimsv" />
     <a href="https://paypal.me/AZasinets" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a>
-<a href="https://donate.cafe/alexaqa">
-  <img style="width:150px" src="https://newbie.zeromesh.net/donate.7.6.svg" />
-</a>
-            </a></a></p><br><br>
+               
 
-<h3 align="left">Dog Shelter Ocheretino:</h3>If you would like to help but cannot adopt a dog right now, you can help us with food and veterinary support <p align="left">
-<a href="https://fb.com/dogsocheretino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dogsocheretino" height="30" width="40" /></a>
-<a href="https://instagram.com/dog_shelter_ocheretino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dog_shelter_ocheretino" height="30" width="40" /></a>
-</p>
-
-
- 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
