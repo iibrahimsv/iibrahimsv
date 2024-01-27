@@ -67,12 +67,9 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/abdiibrahim"> <img align="left" src="[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L7TRZ5H)" height="50" width="210" alt="iibrahimsv" />
+<p><a href="https://ko-fi.com/abdiibrahim"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="iibrahimsv" />
     <a href="https://paypal.me/AbdiIbrahim" target="_blank" style="display: inline-block;">
-
-    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L7TRZ5H)
-               
-
+              
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
