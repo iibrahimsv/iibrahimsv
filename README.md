@@ -1,6 +1,6 @@
-<h3 align="center"> Aspiring Software Engineer (SDET)</h3>
+<h3 align="center"> Software Engineer </h3>
 
-<h4 align="center"> Experience (SDET)</h4>
+<h4 align="center"> Experience </h4>
 
 - 🚀 Strong experience in automated testing with Java, using various frameworks on commercial projects (including UI and API testing). During my work, I have implemented various patterns and used the following tools: 
 
