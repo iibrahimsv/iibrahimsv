@@ -1,4 +1,4 @@
-<h3 align="center"> Global Security Resilience and Services Consulatant </h3>
+<h3 align="center"> Global Security Resilience and Services Consultant </h3>
 
 <h2 align="center"> Google </h2>
 
