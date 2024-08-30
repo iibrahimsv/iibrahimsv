@@ -1,5 +1,7 @@
 <h3 align="center"> Global Security Resilience and Services -- Google </h3>
 
+<h2 align="center"> Google </h2>
+
 <h4 align="center"> Experience </h4>
 
 - 🚀 Strong experience in automated testing with Java, using various frameworks on commercial projects (including UI and API testing). During my work, I have implemented various patterns and used the following tools: 
