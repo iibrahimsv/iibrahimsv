@@ -1,4 +1,4 @@
-<h3 align="center"> GSRS @ Google </h3>
+<h3 align="center"> Hi 👋 </h3>
 
 <h2 align="center"> Software Engineer in Test (SDET) </h2>
 
