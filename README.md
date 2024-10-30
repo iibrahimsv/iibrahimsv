@@ -1,6 +1,6 @@
 <h3 align="center"> Hi 👋 </h3>
 
-<h2 align="center"> FreeLance </h2>
+<h2 align="center"> Freelance </h2>
 
 
 - 🚀 Strong experience in automated testing with Java, using various frameworks on commercial projects (including UI and API testing). During my work, I have implemented various patterns and used the following tools: 
