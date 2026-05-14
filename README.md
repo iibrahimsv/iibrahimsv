@@ -1,86 +1,121 @@
-<h3 align="center"> Hi 👋 </h3>
-
-<h2 align="center"> Freelance </h2>
-
-
-- 🚀 Strong experience in automated testing with Java, using various frameworks on commercial projects (including UI and API testing). During my work, I have implemented various patterns and used the following tools: 
-
-- 🚀 Git/GitLab/Gradle/Maven/Selenium WebDriver/Selenium Grid/Jenkins/Allure Report/TestNG/JUnit/Cucumber/REST Assured 🔍
-
-- 🚀 Experience working in Development & Testing Methodologies such as Agile (Kanban,Scrum) and Waterfall testing methodologies;
-
-- 🚀 Solid working experience in Manual and Automated testing using Rest Assured and Selenium using Java;
-
-- 🚀 Developing and Documentation of Test Plans, Test Cases, Test Procedures and Java, WEB and Client/ Server applications.
-
-- 🌱 Certified: **Java Automation Testing - TestPro.io**
-
-
-
+<h1 align="center">Abdi Ibrahim</h1>
 
 <p align="center">
-<a href="https://github.com/iibrahimsv">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iibrahimsv&theme=outrun&hide_border=true&border_radius=5.9&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="iibrahimsv" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=Machine+Learning+Engineer+in+Training;AI+Agent+Builder+%E2%80%94+Anthropic+%2B+Composio;Prompt+Engineer+%E2%80%94+studying+the+craft;From+QA+Automation+%E2%86%92+AI+Engineering" alt="Typing animation" />
+  </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdi-said-ibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliaksandr-zasinets" height="30" width="40" /></a>
- <a href="mailto: dcabdi@gmail.com "><img src="https://img.shields.io/badge/- dcabdi@gmail.com -D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
-![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![ASUS](https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/abdiibrahim"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="iibrahimsv" />
-    <a href="https://paypal.me/AbdiIbrahim" target="_blank" style="display: inline-block;">
-                 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://komarev.com/ghpvc/?username=iibrahimsv&label=Profile%20views&color=7AA2F7&style=flat" alt="Profile views" />
+  <a href="https://linkedin.com/in/abdi-said-ibrahim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:dcabdi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+---
 
+### whoami
 
+```python
+class AbdiIbrahim:
+    role        = "ML Engineering Student"
+    target      = "AI / Prompt Engineer @ FAANG"
+    background  = "Java QA automation (Selenium, REST Assured, Jenkins)"
+    now         = "building agentic systems with the Anthropic SDK + Composio"
+    studying    = ["prompt engineering", "agent orchestration", "applied security"]
+    motto       = "ship the smallest thing that proves the idea"
+```
 
+---
 
+### What I'm building
 
+| Project | What it is | Stack |
+|---|---|---|
+| [**Polaris**](https://github.com/iibrahimsv/polaris) | An AI engineering coach — orchestrator + specialist subagents that watch your repos, debrief you each morning, and keep your long-term direction honest. | Anthropic SDK · Composio · Python |
+| **Engineering Coach System** (inside Polaris) | The broader thesis: a small system of agents that read your actual repos *and* your stated 18-month direction, then tell you where today's work helps or drifts. | Markdown state · atomic writes · cron |
 
+> 🌱 Right now: shipping the **Historian** subagent (nightly repo crawl → daily signals digest).
 
+---
 
+### Toolkit
 
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+**AI · Agents · LLMs**
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=D97757)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Composio](https://img.shields.io/badge/Composio-6C5CE7?style=for-the-badge&logoColor=white)
+![Prompt%20Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logoColor=white)
 
+**Tools & Infra**
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![IntelliJ%20IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
+
+<details>
+  <summary><strong>QA Automation background (click to expand)</strong></summary>
+
+  <br/>
+
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+  ![REST%20Assured](https://img.shields.io/badge/REST%20Assured-009688?style=flat-square&logoColor=white)
+  ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+  ![TestNG](https://img.shields.io/badge/TestNG-DE3423?style=flat-square&logoColor=white)
+  ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=flat-square&logo=jenkins&logoColor=white)
+  ![Allure](https://img.shields.io/badge/Allure-FFCA28?style=flat-square&logoColor=black)
+  ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+  ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+  Certified: **Java Automation Testing — TestPro.io**
+
+</details>
+
+---
+
+### GitHub at a glance
+
+<p align="center">
+  <a href="https://github.com/iibrahimsv">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=iibrahimsv&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&card_width=480" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/iibrahimsv">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iibrahimsv&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/iibrahimsv">
+    <img src="https://github-readme-streak-stats.demolab.com?user=iibrahimsv&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/iibrahimsv">
+    <img src="https://github-profile-trophy.vercel.app/?username=iibrahimsv&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
+  </a>
+</p>
+
+---
+
+### Currently studying
+
+- 🧠 **Agent orchestration patterns** — subagent boundaries, state isolation, replayability
+- ✍️ **Prompt engineering** — Anthropic's official course + reading the SDK docs cover-to-cover
+- 🔐 **Applied security** — because agents with tool access need a security mindset
+- 📚 **ML prerequisites** — linear algebra, probability, the math the modeling work rests on
+
+---
+
+<p align="center">
+  <i>"Polaris is the star sailors steer by. Same idea for an engineering career: a fixed point to orient your day-to-day work against."</i>
+</p>
