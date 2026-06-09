@@ -82,31 +82,6 @@ class AbdiIbrahim:
 
 ---
 
-### GitHub at a glance
-
-<p align="center">
-  <a href="https://github.com/iibrahimsv">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=iibrahimsv&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&card_width=480" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/iibrahimsv">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iibrahimsv&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/iibrahimsv">
-    <img src="https://github-readme-streak-stats.demolab.com?user=iibrahimsv&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/iibrahimsv">
-    <img src="https://github-profile-trophy.vercel.app/?username=iibrahimsv&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
-  </a>
-</p>
-
----
-
 ### Currently studying
 
 - 🧠 **Agent orchestration patterns** — subagent boundaries, state isolation, replayability
